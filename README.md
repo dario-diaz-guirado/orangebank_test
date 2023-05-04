@@ -19,6 +19,7 @@ virtualenv env
 
 
 Activate the virtualenv:
+
 Win:
 ```
 .\env\Scripts\Activate.ps1
