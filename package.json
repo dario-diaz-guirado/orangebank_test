@@ -1,0 +1,18 @@
+{
+  "name": "google-search-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js features/**/*.feature"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^8.10.0",
+    "chai": "^4.3.7",
+    "chromedriver": "^111.0.0",
+    "cucumber": "^6.0.7",
+    "selenium-webdriver": "^4.8.1"
+  }
+}
