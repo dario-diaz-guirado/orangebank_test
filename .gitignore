@@ -1,0 +1,15 @@
+# .gitignore file
+
+# Ignore the node_modules directory
+/node_modules/
+
+# Ignore Python virtual environment
+/env/
+*.pyc
+__pycache__/
+
+# Ignore editor and operating system configuration files
+*.log
+.DS_Store
+.editorconfig
+.env
